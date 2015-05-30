@@ -1,0 +1,13 @@
+{
+    "name": "maxi/websockets",
+    "description": "Testing websockets",
+    "require": {
+        "pusher/pusher-php-server": "~2.2"
+    },
+    "authors": [
+        {
+            "name": "Maximiliano",
+            "email": "capo_maxii@hotmail.com"
+        }
+    ]
+}
