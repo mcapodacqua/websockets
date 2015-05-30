@@ -2,7 +2,8 @@
     "name": "maxi/websockets",
     "description": "Testing websockets",
     "require": {
-        "pusher/pusher-php-server": "~2.2"
+        "pusher/pusher-php-server": "~2.2",
+        "vlucas/phpdotenv": "~2.0"
     },
     "authors": [
         {
